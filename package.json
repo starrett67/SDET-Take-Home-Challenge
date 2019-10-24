@@ -1,0 +1,22 @@
+{
+  "name": "sdet-take-home-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starrett67/SDET-Take-Home-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starrett67/SDET-Take-Home-Challenge/issues"
+  },
+  "homepage": "https://github.com/starrett67/SDET-Take-Home-Challenge#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
