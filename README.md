@@ -2,7 +2,7 @@
 
 ## Overview
 
-At roomstogo we like all of our developers to have cross functional technical skills. For this challenge you will be testing one of our public apis and running your tests in the cloud. The see in store api returns data for which stores a product can be viewed in. Navigate to our documenation page: http://seeinstore.rtg-prod.com/docs/#/default/seeInStore and write some tests against the /seeInStore endpoint.
+At roomstogo we like all of our developers to have cross functional technical skills. For this challenge you will be testing one of our public apis and running your tests in the cloud. The see in store api returns data for which stores a product can be viewed in. Navigate to our documenation page: http://seeinstore.rtg-prod.com/docs and write some tests against the /seeInStore endpoint.
 
 You can use what ever modules you want in order to test this endpoint. The only requirement is that you use mocha as a test runner. Lastly, use github actions to run your tests inside the cloud.
 
@@ -15,6 +15,6 @@ Remeber that there is not a time limit on this project, take your time and show 
 
 ## Helpful Links
 
-- http://seeinstore.rtg-prod.com/docs/#/default/seeInStore
+- http://seeinstore.rtg-prod.com/docs
 - https://mochajs.org/
 - https://github.com/features/actions
