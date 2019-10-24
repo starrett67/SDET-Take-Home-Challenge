@@ -9,7 +9,7 @@ You can use what ever modules you want in order to test this endpoint. The only 
 Remeber that there is not a time limit on this project, take your time and show us your best work. This project should take around 2-4 hours.
 
 ## Instructions
-1. Begin by forking this repository into your own account
+1. Begin by cloning this repository into your own account (Do not fork)
 2. Read the overview section carefully, feel free to reach out if you have questions
 3. When you are done email me a link to your project
 
